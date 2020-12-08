@@ -1,6 +1,12 @@
 # CS480_RideShare-Project
 Semester long group project on ride sharing and databases
 
+### Write-up
+https://docs.google.com/document/d/1bbL6CnhTrz1JlObsW0xpRBKITHMH2dV0KQWueoArM44/edit#heading=h.pj43h5epjau9
+
+### Team Members
+Eric Ablang, Michael Mulligan, Anthony Venturella, Jia Kuang
+
 
 ## Code and instructions to run it
 
