@@ -16,6 +16,8 @@ Eric Ablang, Michael Mulligan, Anthony Venturella, Jia Kuang
   - Jupyter file
   - Geojson file
 - Install any dependencies that are needed
+  - Any issues installing geopandas follow guide in this stackoverflow thread
+    -https://stackoverflow.com/questions/56958421/pip-install-geopandas-on-windows
   - Manhattan Notebooks
     - pymysql
     - pandas
@@ -28,13 +30,12 @@ Eric Ablang, Michael Mulligan, Anthony Venturella, Jia Kuang
     - fiona
     - gmplot
     - folium
-
-- All of NYC Notebook
-  - pymysql
-  - nandas
-  - numpy
-  - networkx
-  - Haversine
+  - All of NYC Notebook
+    - pymysql
+    - nandas
+    - numpy
+    - networkx
+    - Haversine
 - Input MySQL connection settings in the 2nd jupyter cell
   - Host, port, user, passwd, and db
 - Input location of manhattan geojson file in 3rd and 4th cell of Manhattan jupyter notebook
